@@ -1,0 +1,14 @@
+9_regions.txt
+RAxML_bestTree.Lecy_cp_9regions_tree
+RAxML_bipartitions.9_region_bestree_and_regBoots
+RAxML_bipartitionsBranchLabels.9_region_bestree_and_regBoots
+RAxML_bootstrap.Lecy_cp_9regions_boots
+RAxML_info.9_region_bestree_and_regBoots
+RAxML_info.Lecy_cp_9regions_boots
+RAxML_info.Lecy_cp_9regions_tree
+RAxML_log.Lecy_cp_9regions_tree
+RAxML_parsimonyTree.Lecy_cp_9regions_tree
+RAxML_result.Lecy_cp_9regions_tree
+cp_regions.concat9.fa.gz
+cp_regions.concat9.model
+temp

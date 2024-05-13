@@ -1,0 +1,10 @@
+python remove_empty_labels.py ccsA‐ndhD.partition.fasta > ccsA‐ndhD.partition.fa
+python remove_empty_labels.py petD‐rpoA.partition.fasta > petD‐rpoA.partition.fa
+python remove_empty_labels.py psbM-trnD.partition.fasta > psbM-trnD.partition.fa
+python remove_empty_labels.py psbZ‐trnfM.partition.fasta > psbZ‐trnfM.partition.fa
+python remove_empty_labels.py rpl16‐rps3.partition.fasta > rpl16‐rps3.partition.fa
+python remove_empty_labels.py trnE‐trnT.partition.fasta > trnE‐trnT.partition.fa
+python remove_empty_labels.py trnG‐psaB.partition.fasta > trnG‐psaB.partition.fa
+python remove_empty_labels.py trnT‐psbD.partition.fasta > trnT‐psbD.partition.fa
+python remove_empty_labels.py ycf1_1.partition.fasta > ycf1_1.partition.fa
+python remove_empty_labels.py ycf1_2.partition.fasta > ycf1_2.partition.fa

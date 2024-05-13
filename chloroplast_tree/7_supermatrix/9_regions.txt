@@ -1,0 +1,9 @@
+petD‐rpoA.partition.r.fa.genafpair.fa.cln
+psbM-trnD.partition.r.fa.genafpair.fa.cln
+psbZ‐trnfM.partition.r.fa.genafpair.fa.cln
+rpl16‐rps3.partition.r.fa.genafpair.fa.cln
+trnE‐trnT.partition.r.fa.genafpair.fa.cln
+trnG‐psaB.partition.r.fa.genafpair.fa.cln
+trnT‐psbD.partition.r.fa.genafpair.fa.cln
+ycf1_1.partition.r.fa.genafpair.fa.cln
+ycf1_2.partition.r.fa.genafpair.fa.cln

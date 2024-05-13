@@ -1,0 +1,1 @@
+for file in *.no; do run_treeshrink.py  -q "0.05" -t $file; done

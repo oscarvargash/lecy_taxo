@@ -1,0 +1,47 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.11 released by Alexandros Stamatakis on June 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+RAxML Bipartition Computation: Drawing support values from trees in file RAxML_bootstrap.Lecy_cp_9regions_boots onto tree in file RAxML_bestTree.Lecy_cp_9regions_tree
+
+
+RAxML was called as follows:
+
+raxml -f b -m GTRCAT -z RAxML_bootstrap.Lecy_cp_9regions_boots -t RAxML_bestTree.Lecy_cp_9regions_tree -n 9_region_bestree_and_regBoots 
+
+
+
+
+Found 1 tree in File RAxML_bestTree.Lecy_cp_9regions_tree
+
+
+
+Found 200 trees in File RAxML_bootstrap.Lecy_cp_9regions_boots
+
+
+
+Found 1 tree in File RAxML_bestTree.Lecy_cp_9regions_tree
+
+
+
+Time for Computation of Bipartitions 0.136732
+Tree with bipartitions written to file:  /media/eebsmith-nas/ericales/Lecythidaceae_RAPiD_Genomics_Raw_Data_2018/Nov21_blast_excising/final_supermatrix/RAxML_bipartitions.9_region_bestree_and_regBoots
+Tree with bipartitions as branch labels written to file:  /media/eebsmith-nas/ericales/Lecythidaceae_RAPiD_Genomics_Raw_Data_2018/Nov21_blast_excising/final_supermatrix/RAxML_bipartitionsBranchLabels.9_region_bestree_and_regBoots
+Execution information file written to :  /media/eebsmith-nas/ericales/Lecythidaceae_RAPiD_Genomics_Raw_Data_2018/Nov21_blast_excising/final_supermatrix/RAxML_info.9_region_bestree_and_regBoots

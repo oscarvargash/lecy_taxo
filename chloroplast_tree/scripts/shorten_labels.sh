@@ -1,0 +1,10 @@
+python shorten_label.py ccsA‐ndhD.partition.fa > ccsA‐ndhD.partition.r.fa
+python shorten_label.py petD‐rpoA.partition.fa > petD‐rpoA.partition.r.fa
+python shorten_label.py psbM-trnD.partition.fa > psbM-trnD.partition.r.fa
+python shorten_label.py psbZ‐trnfM.partition.fa > psbZ‐trnfM.partition.r.fa
+python shorten_label.py rpl16‐rps3.partition.fa > rpl16‐rps3.partition.r.fa
+python shorten_label.py trnE‐trnT.partition.fa > trnE‐trnT.partition.r.fa
+python shorten_label.py trnG‐psaB.partition.fa > trnG‐psaB.partition.r.fa
+python shorten_label.py trnT‐psbD.partition.fa > trnT‐psbD.partition.r.fa
+python shorten_label.py ycf1_1.partition.fa > ycf1_1.partition.r.fa
+python shorten_label.py ycf1_2.partition.fa > ycf1_2.partition.r.fa

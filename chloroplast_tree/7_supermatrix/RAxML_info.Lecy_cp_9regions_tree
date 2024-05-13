@@ -1,0 +1,144 @@
+
+
+IMPORTANT WARNING: Sequences CocaL233 and ComuL283 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EsatL831 and EsrhL578 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EsbrL733 and EscoL824 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EsbrL733 and EsteL690 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EsbrL733 and EstrL772 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EsbrL733 and EstrL793 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EsbrL816 and EslaL814 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EscoL535 and EsroL539 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EscoL770 and EscoL771 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EscoL770 and EscoL780 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EscoL770 and EswaL779 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EscoL796 and EswaL832 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EscoL932 and EscoL938 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EscyL797 and EscyL813 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EsraL805 and EsraL835 are exactly identical
+
+
+IMPORTANT WARNING: Sequences EsspL795 and LespL734 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GuauL291 and GuauL953 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GuloL931 and GuloL948 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GuseLA02 and GuspL237 are exactly identical
+
+
+IMPORTANT WARNING: Sequences LegrL808 and LespL735 are exactly identical
+
+
+IMPORTANT WARNING: Sequences LepiL966 and LezaL870 are exactly identical
+
+IMPORTANT WARNING
+Found 21 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file cp_regions.concat9.fa.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.11 released by Alexandros Stamatakis on June 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 3934 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 5.76%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 3934
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxml -m GTRCAT -n Lecy_cp_9regions_tree -T 10 -p 12345 -s cp_regions.concat9.fa 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.319 0.161 0.164 0.356 
+
+Inference[0]: Time 19.928140 CAT-based likelihood -52882.114058, best rearrangement setting 5
+alpha[0]: 1.000000 rates[0] ac ag at cg ct gt: 0.894273 1.315068 0.471493 0.305162 1.337857 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -59051.236012 tree written to file /media/eebsmith-nas/ericales/Lecythidaceae_RAPiD_Genomics_Raw_Data_2018/Nov21_blast_excising/final_supermatrix/RAxML_result.Lecy_cp_9regions_tree
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -59051.236012 .... 
+
+Final GAMMA-based Score of best tree -59051.230410
+
+Program execution info written to /media/eebsmith-nas/ericales/Lecythidaceae_RAPiD_Genomics_Raw_Data_2018/Nov21_blast_excising/final_supermatrix/RAxML_info.Lecy_cp_9regions_tree
+Best-scoring ML tree written to: /media/eebsmith-nas/ericales/Lecythidaceae_RAPiD_Genomics_Raw_Data_2018/Nov21_blast_excising/final_supermatrix/RAxML_bestTree.Lecy_cp_9regions_tree
+
+Overall execution time: 45.648365 secs or 0.012680 hours or 0.000528 days
+
